@@ -1,0 +1,25 @@
+/* resume css */
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    margin: 3rem;
+}
+.no-underline {
+    text-decoration: none;
+    font-weight: normal;
+}
+blockquote {
+    text-align: center;
+}
+.center-text {
+    text-align: center;
+}
+a:hover {
+    text-decoration: underline;
+    background-color: #0788d9;
+}
+div.box1 {
+    border: 5px solid #04b2d9;
+    width: 25%;
+}
